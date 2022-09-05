@@ -1,16 +1,33 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=dankozz1t)
 
-<!--
-**dankozz1t/dankozz1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm [Alex-Taylor Danko](https://github.com/dankozz1t)
 
-Here are some ideas to get you started:
+- 💻 Junoir Front-end developer (JavaScript)
+- 🌱 I’m currently learning React
+- 📌 Lviv, Ukraine
+- 📫 How to reach me:  
+[![Gmail](https://img.shields.io/badge/alexdankoxxl@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdankoxxl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dankozz1/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dankozz1)
+---
+### Main technology stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
+<code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
+<code>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</code>
+<code>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</code>
+<code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
+
+### Other skills
+<code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
+<code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
+<code>![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</code>
+<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
+---
+### Analytics 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dankozz1t&show_icons=true&theme=dracula)
+---
+### Problem solving
+[![codewars](https://www.codewars.com/users/dankozz1t/badges/large)](https://www.codewars.com/users/dankozz1t)
