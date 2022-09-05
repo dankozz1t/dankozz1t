@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning React
 - 📌 Lviv, Ukraine
 - 📫 How to reach me:  
-[![Gmail](https://img.shields.io/badge/alexdankoxxl@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdankoxxl@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dankozz1/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dankozz1)
+<code>[![Gmail](https://img.shields.io/badge/alexdankoxxl@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdankoxxl@gmail.com)</code>
+<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dankozz1/)</code>
+<code>[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dankozz1)</code>
 ---
 ### Main technology stack
 
