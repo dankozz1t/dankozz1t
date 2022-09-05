@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dankozz1t)
 
-# Hi there 👋, I'm [Alex-Taylor Danko](https://github.com/dankozz1t)
+![myHeader](https://github.com/dankozz1t/dankozz1t/blob/main/header.png)
 
 - 💻 Junoir Front-end developer (JavaScript)
 - 🌱 I’m currently learning React
@@ -27,7 +27,7 @@
 ---
 ### Analytics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dankozz1t&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dankozz1t&show_icons=true&theme=tokyonight)
 ---
 ### Problem solving
 [![codewars](https://www.codewars.com/users/dankozz1t/badges/large)](https://www.codewars.com/users/dankozz1t)
