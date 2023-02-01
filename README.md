@@ -3,7 +3,7 @@
 ![myHeader](https://github.com/dankozz1t/dankozz1t/blob/main/header.png)
 
 - 💻 Front-end developer (JavaScript, Vue)
-- 🌱 I’m currently learning Vue and Node.js
+- 🌱 I’m currently learning Vue
 - 📌 Lviv, Ukraine
 - 📫 How to reach me:  
 <code>[![Gmail](https://img.shields.io/badge/alexdankoxxl@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdankoxxl@gmail.com)</code>
@@ -14,11 +14,16 @@
 
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
 <code>![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)</code>
+<code>![Nuxt](https://img.shields.io/badge/-nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)</code>
 <code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
 <code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
 <code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
 <code>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</code>
 <code>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</code>
+
+<code>![Node](https://img.shields.io/badge/-node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</code>
+<code>![Mongo DB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</code>
+<code>![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</code>
 <code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 
 ### Other skills
