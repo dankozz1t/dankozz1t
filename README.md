@@ -3,8 +3,8 @@
 ![myHeader](https://github.com/dankozz1t/dankozz1t/blob/main/header.png)
 
 - 💻 Front-end developer (JavaScript, Vue)
-- 🌱 I’m currently learning Vue
-- 📌 Lviv, Ukraine
+- 🌱 Currently, I am improving my skills in Vue
+- 📌 Mykolaiv, Ukraine
 - 📫 How to reach me:  
 <code>[![Gmail](https://img.shields.io/badge/alexdankoxxl@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdankoxxl@gmail.com)</code>
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dankozz1/)</code>
